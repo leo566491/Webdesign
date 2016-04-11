@@ -1,0 +1,4 @@
+AuthName "jc310636 statistics"
+AuthType Basic
+AuthUserFile /var/www/sites/jc310636/.awstats-htpasswd
+require valid-user
